@@ -1,0 +1,8 @@
+{
+  "name": "NiDDoSty",
+  "description": "Global tourism rental platform with host/guest registration, real estate CRM, student campus housing, and full travel services including cars, flights, and local experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
