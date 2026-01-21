@@ -1,3 +1,5 @@
+import BannerHome from './components/BannerHome';
+import GaleríaNiDDoSty from './components/GaleríaNiDDoSty';
 
 import React, { useState, useEffect } from 'react';
 import { Navbar } from './components/Navbar';
